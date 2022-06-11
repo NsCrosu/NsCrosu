@@ -3,7 +3,8 @@
 喊我**南省**就行(。・_・)ノ<br />
 aka Crosu
 
+<pre>
 · 想学画画<br />
-· 想学 CSharp<br />
-· 偶尔用 `Gamemaker Studio: 2` 做点游戏<br />
-<pre>高三狗 六月再见ヾ(￣▽￣)</pre>
+· 想学 CS<br />
+· 偶尔用 GameMaker 做点游戏
+</pre>
